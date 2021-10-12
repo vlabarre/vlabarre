@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vlabarre
-- 👀 I’m interested in numerical simulations
-- 🌱 I’m currently learning fluidsim
+- 👀 I’m interested in Numerical Simulations
+- 🌱 I’m currently learning fluidsim (https://fluidsim.readthedocs.io/en/latest/index.html)
 - 💞️ I’m looking to collaborate on Wave Turbulence Simulations
 - 📫 How to reach me Vincent.Labarre@oca.eu
 
